@@ -1,0 +1,10 @@
+pandas
+ollama
+numpy
+scikit-learn
+tqdm
+scipy
+matplotlib
+seaborn
+notebook
+openai
